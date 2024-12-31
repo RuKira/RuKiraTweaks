@@ -18,7 +18,7 @@ class Mod implements IPostDBLoadMod {
             console.log(`${logPrefix} is enabled...`);
             for (const id in items) {
                 if (config.examineAll) items[id]._props.ExaminedByDefault = true;
-                if (config.debugLogging) console.log(`${logPrefix} ExaminedByDefault set to true for item ${id}`);
+                if (config.debugLogging && config.examineAll) console.log(`${logPrefix} ExaminedByDefault set to true for item ${id}`);
                 // Expand as needed
             }
         }
