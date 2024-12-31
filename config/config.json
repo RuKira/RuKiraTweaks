@@ -1,5 +1,8 @@
 {
     "enabled": true,
     "examineAll": true,
-    "debugLogging": false
+    "examineAllExceptKeys": false,
+    "examineAllExceptCollector": false,
+    "examineAllExceptKeysAndCollector": true,
+    "debugLogging": true
 }
