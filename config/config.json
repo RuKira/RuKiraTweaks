@@ -4,5 +4,5 @@
     "examineAllExceptKeys": false,
     "examineAllExceptCollector": false,
     "examineAllExceptKeysAndCollector": true,
-    "debugLogging": true
+    "debugLogging": false
 }
