@@ -12,4 +12,4 @@ For now this mod just makes it so you examine everything off start.
 I don't know? Suggest something.
 
 ## Shameless Plug
-Check out my other mod (Gunsmith Tweaks)[https://hub.sp-tarkov.com/files/file/2520-gunsmith-tweaks/]
+Check out my other mod [Gunsmith Tweaks](https://hub.sp-tarkov.com/files/file/2520-gunsmith-tweaks/)
