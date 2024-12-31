@@ -1,7 +1,9 @@
 # RuKiraTweaks
 ## Config
 Enabled: Disables or Enables the mod - Default = True
+
 examineAll: Disables or Enables the Examine All feature - Default = True
+
 debugLogging: Disables or Enables the Verbose Logging - Default = False (Only Enable If I request)
 
 
